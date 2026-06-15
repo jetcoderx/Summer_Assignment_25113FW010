@@ -1,5 +1,6 @@
 //Write a program to Check strong number. 
 #include<stdio.h>
+
 int main(){
     int num,i,fact=1,sum=0,digit,copy;
 

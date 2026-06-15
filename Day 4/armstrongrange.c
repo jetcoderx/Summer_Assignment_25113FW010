@@ -1,5 +1,3 @@
-//WAP to print all angstrom number btw 1 to 500 
-
 #include<stdio.h>
 #include<math.h>
 
@@ -17,7 +15,6 @@ int main(){
         count=0;
         j=i;
         
-        //to count number of digit present in the number
 
         while(j!=0)
         {
@@ -27,8 +24,6 @@ int main(){
 
         j=i;
         
-        // to find the sum 
-
         while(j!=0)
         {
             n=j%10;

@@ -12,7 +12,7 @@ int main()
         printf("Enter Element A[%d]:",i);
         scanf("%d",&A[i]);
     }
-    printf("Duplicates element are");
+    printf("Duplicates element are:");
     for(i=0;i<n;i++)
     {
         count=0;

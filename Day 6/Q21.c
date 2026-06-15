@@ -9,7 +9,7 @@ int main(){
 
     if (decimal==0)
     {
-        printf("Binary =0 ");
+        printf("Binary = 0 ");
     
     }
 
